@@ -12,4 +12,7 @@ enquanto K < INDICE faça <br>
 K = K + 1; <br>
 SOMA = SOMA + K; <br>
 } <br>
+
+#
+
  

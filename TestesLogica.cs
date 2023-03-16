@@ -12,6 +12,6 @@ public class HelloWorld
             k = k + 1;
             soma = soma + k;
         }
-        Console.WriteLine("O resutado: " + soma);
+        Console.WriteLine("O resutado: " + soma); //resultado é 91
     }
 }

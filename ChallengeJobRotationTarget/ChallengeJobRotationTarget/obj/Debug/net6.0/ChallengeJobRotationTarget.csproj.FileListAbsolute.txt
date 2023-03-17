@@ -1,0 +1,17 @@
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\bin\Debug\net6.0\ChallengeJobRotationTarget.exe
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\bin\Debug\net6.0\ChallengeJobRotationTarget.deps.json
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\bin\Debug\net6.0\ChallengeJobRotationTarget.runtimeconfig.json
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\bin\Debug\net6.0\ChallengeJobRotationTarget.dll
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\bin\Debug\net6.0\ChallengeJobRotationTarget.pdb
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\ChallengeJobRotationTarget.csproj.AssemblyReference.cache
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\ChallengeJobRotationTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\ChallengeJobRotationTarget.AssemblyInfoInputs.cache
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\ChallengeJobRotationTarget.AssemblyInfo.cs
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\ChallengeJobRotationTarget.csproj.CoreCompileInputs.cache
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\ChallengeJobRotationTarget.csproj.CopyComplete
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\ChallengeJobRotationTarget.dll
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\refint\ChallengeJobRotationTarget.dll
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\ChallengeJobRotationTarget.pdb
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\ChallengeJobRotationTarget.genruntimeconfig.cache
+C:\Users\nick6\source\repos\ChallengeJobRotationTarget\ChallengeJobRotationTarget\obj\Debug\net6.0\ref\ChallengeJobRotationTarget.dll

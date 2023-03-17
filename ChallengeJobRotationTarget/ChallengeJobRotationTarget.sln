@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeJobRotationTarget", "ChallengeJobRotationTarget\ChallengeJobRotationTarget.csproj", "{1D03F856-FAA5-434E-96BA-88436E7C61BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D03F856-FAA5-434E-96BA-88436E7C61BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D03F856-FAA5-434E-96BA-88436E7C61BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D03F856-FAA5-434E-96BA-88436E7C61BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D03F856-FAA5-434E-96BA-88436E7C61BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72FA2931-7A5B-4CFB-BDA9-8AD8349B89EF}
+	EndGlobalSection
+EndGlobal

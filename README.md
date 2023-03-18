@@ -1,17 +1,20 @@
 # JobRotationTarget
+![image](https://user-images.githubusercontent.com/90424448/226078783-0826ae21-fc4c-4411-a004-be2bf7877f49.png)
 
 `Desafio de código da empresa TargetSoluções.`
 
 
-1 - Observe o trecho de código abaixo:
+#
 
-int INDICE = 13, SOMA = 0, K = 0; <br>
+1) Observe o trecho de código abaixo:
 
-enquanto K < INDICE faça <br>
-{ <br>
-K = K + 1; <br>
-SOMA = SOMA + K; <br>
-} <br>
+ int INDICE = 13, SOMA = 0, K = 0; <br>
+
+ enquanto K < INDICE faça <br>
+ { <br>
+ K = K + 1; <br>
+ SOMA = SOMA + K; <br>
+ } <br>
 
 #
 
@@ -33,6 +36,8 @@ RJ – R$36.678,66 <br>
 MG – R$29.229,88 <br>
 ES – R$27.165,48 <br>
 Outros – R$19.849,53 <br> 
+
+Calcule a representação que cada estado teve dentro do valor total da distribuidora
 
 #
 
